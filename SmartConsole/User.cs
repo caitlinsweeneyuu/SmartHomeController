@@ -56,6 +56,7 @@ namespace SmartHomeController
             ContactInfo = contactInfo;
             Password = password;
             IsLoggedIn = false;
+
         }
 
         //Methods
