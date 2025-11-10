@@ -10,5 +10,6 @@ namespace SmartHomeController
 {
     internal class User
     {
+
     }
 }
